@@ -53,7 +53,7 @@ Para poder utilizar los Kernels de R, Python y Teradata, vaya a los instructivos
 
 
 
-# Para salir del JupyterLab y detener el contenedor
+## Para salir de JupyterLab y detener el contenedor
 
 
 Cierre todos los notebooks en los que haya estado trabajando. Luego puede bajar el Servidor JupyterLab con la opción Shutdown del Menu File. Confirme su elección, presionando el botón que se muestra. Luego, puede cerrar la pestaña o el navegador.
@@ -80,7 +80,7 @@ Una vez que se haya detenido la máquina 'default', usted puede cerrar Docker To
 
 
 
-# Para continuar trabajando en el contenedor
+## Para continuar trabajando en el contenedor
 
 Inicie Docker Toolbox y utilice la opción docker ps para ver el nombre de los contenedores de JupyterLab (activos e inactivos)
 
