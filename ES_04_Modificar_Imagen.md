@@ -45,7 +45,7 @@ Esto nos permite conocer el sobrenombre del contenedor. Luego, salvamos los camb
     $ docker commit <sobrenombre_contenedor> jupyter363
 
 donde jupyter363 será la etiqueta (tag) de la imagen nueva, actualizada.  
-
+  
 
 ## Exportar la nueva Imagen
 
@@ -56,7 +56,7 @@ Finalmente, para poder compartir la imagen, puede exportarla a un archivo con el
 Y el archivo resultante (jupyter363.tar.gz) puede ser compartido con otros usuarios o llevado al cluster de producción para su uso.
 
 Otra forma de compartir imagenes es utilizando DockerHub o un servicio de contenedores (on premise o nube).  
-
+  
 
 
 
