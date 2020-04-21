@@ -1,6 +1,7 @@
 # Cargar el Contenedor de JupyterLab sobre Docker (Linux)
 
-[Video Instructivo](https://www.youtube.com/watch?v=6X2JaXfxKoU)
+[Video Instructivo en Youtube](https://www.youtube.com/watch?v=6X2JaXfxKoU)  
+[![](http://img.youtube.com/vi/6X2JaXfxKoU/0.jpg)](http://www.youtube.com/watch?v=6X2JaXfxKoU "Abrir JupyterLab en Ubuntu")
 
 Cambie el path a la carpeta en la que se encuentra el archivo descargado. En mi caso, está en el USB
 
