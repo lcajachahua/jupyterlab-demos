@@ -1,7 +1,7 @@
 
 # Modificar la Imagen de JupyterLab
 
-[Video Instructivo](https://www.youtube.com)
+[Video Instructivo](https://www.youtube.com/watch?v=mSp9EBr9Xr0)
 
 En esta Guia, damos un ejemplo de cómo realizar modificaciones y mantener los cambios. Específicamente vamos a actualizar la versión de R, instalaremos algunas librerías adicionales y exportaremos todo el entorno actualizado a una nueva imagen, que luego podrá ser compartidas con otros desarrolladores o enviada al entorno de producción para su uso.
 
