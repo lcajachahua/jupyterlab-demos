@@ -1,6 +1,6 @@
 # Cargar el Contenedor de JupyterLab sobre Docker (Windows)
 
-[Video Instructivo](https://www.youtube.com)
+[Video Instructivo](https://www.youtube.com/watch?v=6UGWn11RllM)
 
 Crear una Carpeta llamada 'Lab' en la raíz de C:/ 
 
