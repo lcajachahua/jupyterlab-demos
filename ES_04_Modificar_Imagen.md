@@ -9,9 +9,11 @@ En esta Guia, damos un ejemplo de cómo realizar modificaciones y mantener los c
 Para poder actualizar la versión de R (o de cualquier otro componente) basta con levantar la imagen que creamos en el paso anterior, quitando la opción -rm
 
 En Linux:
+
     $ docker run -it -p 127.0.0.1:8888:8888 -v $pwd:/home/jovyan/JupyterLabroot teradatajupyterlabext_2.0.0-ec03262020
 
-En Windows
+En Windows:
+
     $ docker run -it -p 192.168.99.100:8888:8888 -v $pwd:/home/jovyan/JupyterLabroot teradatajupyterlabext_2.0.0-ec03262020
 
 Ingresamos a JupyterLab y abrimos un terminal. Dentro, comprobamos la versión de R.
