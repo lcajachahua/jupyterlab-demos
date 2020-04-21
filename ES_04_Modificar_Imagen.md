@@ -1,8 +1,10 @@
 
-# DEMO: ACTUALIZAR LA VERSIÓN DE R, INSTALAR LIBRERÍAS DE R Y PYTHON Y FINALMENTE EXPORTAR LA IMAGEN PARA COMPARTIR
+# Modificar la Imagen de JupyterLab
+
+En esta Guia, damos un ejemplo de cómo realizar modificaciones y mantener los cambios. Específicamente vamos a actualizar la versión de R, instalaremos algunas librerías adicionales y exportaremos todo el entorno actualizado a una nueva imagen, que luego podrá ser compartidas con otros desarrolladores o enviada al entorno de producción para su uso.
 
 
-## ACTUALIZAR EL CONTENIDO DE LA IMAGEN
+## Actualizar los componentes e instalar nuevas librerías
 
 Para poder actualizar la versión de R (o de cualquier otro componente) basta con levantar la imagen que creamos en el paso anterior, quitando la opción -rm
 
@@ -41,7 +43,7 @@ Esto nos permite conocer el sobrenombre del contenedor. Luego, salvamos los camb
 donde jupyter363 será la etiqueta (tag) de la imagen nueva, actualizada.
 
 
-## EXPORTAR LA IMAGEN PARA COMPARTIR
+## Exportar la nueva Imagen
 
 Finalmente, para poder compartir la imagen, puede exportarla a un archivo con el siguiente comando:
 
@@ -54,7 +56,7 @@ Otra forma de compartir imagenes es utilizando DockerHub o un servicio de conten
 
 
 
-## INICIAR NUEVAMENTE EL CONTENEDOR
+## Iniciar nuevamente el Contenedor
 
 
 Para poder visualizar los contenedores creados (activos e inactivos), basta con ejecutar el comando:
@@ -64,7 +66,4 @@ Para poder visualizar los contenedores creados (activos e inactivos), basta con 
 Identifique el contenedor que desea activar. Puede utilizar el sobrenombre para iniciarlo:
 
     $ docker start <sobrenombre_contenedor> 
-
-
-
 
