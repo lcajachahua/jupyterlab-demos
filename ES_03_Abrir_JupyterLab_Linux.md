@@ -1,6 +1,6 @@
 # Cargar el Contenedor de JupyterLab sobre Docker (Linux)
 
-[Video Instructivo](https://www.youtube.com)
+[Video Instructivo](https://www.youtube.com/watch?v=6X2JaXfxKoU)
 
 Cambie el path a la carpeta en la que se encuentra el archivo descargado. En mi caso, está en el USB
 
