@@ -1,6 +1,6 @@
 # Descargar JupyterLab
 
-[Video Instructivo en Youtube](https://www.youtube.com/watch?v=0uiz73pFvqY)
+[Video Instructivo en Youtube](https://www.youtube.com/watch?v=0uiz73pFvqY)  
 [![](http://img.youtube.com/vi/0uiz73pFvqY/0.jpg)](http://www.youtube.com/watch?v=0uiz73pFvqY "Descargar JupyterLab")
 
 Para poder descargar la imagen de JupyterLab liberada por Teradata, vaya al siguiente enlace:
