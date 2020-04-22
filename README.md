@@ -42,3 +42,18 @@ Esencialmente, Docker se utiliza para:
 - Trabajar en forma modular con otro tipo de soluciones como Jenkins (herramienta de automatización de procesos), Airflow/Luigi (Pipelines). Pero no es necesario tener un solo sistema monolítico. Cada uno puede ir sobre un contenedor distinto.   
 - Reutilización de componentes
 - Estándar en DevOps y MLOps
+
+## Cómo instalar localmente
+
+Para poder instalar JupyterLab sobre Docker, puede seguir cada uno de los instructivos listados a continuación. Cada paso cuenta con instructivos en video, los cuales pueden ser accedidos desde YouTube.
+
+1. [Instalar Docker](https://github.com/lcajachahua/jupyterlab-demos/blob/master/ES_01_Instalar_Docker.md)
+
+2. [Descargar JupyterLab](https://github.com/lcajachahua/jupyterlab-demos/blob/master/ES_02_Descargar_Jupyterlab.md)
+
+3. Abrir JupyterLab
+[Windows](https://github.com/lcajachahua/jupyterlab-demos/blob/master/ES_03_Abrir_JupyterLab_Windows.md)
+[Linux](https://github.com/lcajachahua/jupyterlab-demos/blob/master/ES_03_Abrir_JupyterLab_Linux.md)
+
+4. [Modificar la Imagen](https://github.com/lcajachahua/jupyterlab-demos/blob/master/ES_04_Modificar_Imagen.md)
+
