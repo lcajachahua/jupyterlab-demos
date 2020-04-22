@@ -45,7 +45,7 @@ Esencialmente, Docker se utiliza para:
 
 ## Cómo instalar localmente
 
-Para poder instalar JupyterLab sobre Docker, puede seguir cada uno de los instructivos listados a continuación. Cada paso cuenta con instructivos en video, los cuales pueden ser accedidos desde YouTube.
+Para poder instalar JupyterLab sobre Docker, puede seguir cada uno de los instructivos listados a continuación. Cada paso cuenta con tutoriales en video (YouTube).
 
 1. [Instalar Docker](https://github.com/lcajachahua/jupyterlab-demos/blob/master/ES_01_Instalar_Docker.md)
 
