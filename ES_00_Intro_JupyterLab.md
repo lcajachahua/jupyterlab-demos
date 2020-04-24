@@ -2,7 +2,7 @@
 
 En esta demo, vamos a dar un vistazo a JupyterLab. Usaremos la versión online, así que no necesita instalar nada previamente para poder replicar esta demo.
 
-Vamos a explorar diferentes técnicas de Clustering, utilizando varios instructivos que ya estan disponibles.
+Vamos a explorar diferentes técnicas de Clustering, utilizando como referencia un notebook elaborado por Abdul Meral [1], que a su vez, está basado en otro instructivo muy detallado [2], desarrollado por el gran Jason Bronwnlee, autor de varios libors de la colección 'Machine Learning Mastery'.
 
 
 ## Iniciando JupyterLab
@@ -19,7 +19,7 @@ Lo primero, es instalar utilizando la Terminal:
 
     $ conda install -c conda-forge kaggle
 
-Al finalizar, es necesario generar una clave desde Kaggle para conectarse. Hay un instructivo en el siguiente enlace: https://confusedcoders.com/data-engineering/how-to-copy-kaggle-data-to-amazon-s3
+Al finalizar, es necesario generar una clave desde Kaggle para conectarse. Hay un instructivo [3] en la sección de Referencias, al final de este documento. 
 
 Arrastre la clave descargada al home de JupyterLab. Para copiarla en la carpeta correcta, puede utilizar los siguientes comandos:
 
@@ -36,7 +36,7 @@ Finalmente, podemos replicar el procedimiento indicado en el Notebook para enten
 
 ## Complementando el Análisis con NbClust de R
 
-Una vez que hemos revisado los algoritmos de Clustering en Python, vamos a utilizar la librería NbClust para ver cómo testear distintos algoritmos y métricas de Clustering en R.
+Una vez que hemos revisado los algoritmos de Clustering en Python, vamos a utilizar la librería NbClust [4] para ver cómo testear distintos algoritmos y métricas de Clustering en R.
 
 El primer paso es instalar la librería NbClust, utilizando la Terminal
 
@@ -75,7 +75,7 @@ Y podemos graficar la distribución:
 
     ggplot(data, aes(x=AnnualIncome, y=SpendingScore, shape=cluster, color=cluster)) + geom_point()
 
-Podemos seguir cambiando y eligiendo otras distiancias, métodos y métricas para encontrar la que mejor se adecúe a nuestros datos.
+Podemos seguir cambiando y eligiendo otras distiancias, métodos y métricas para encontrar la que mejor se adecúe a nuestros datos. Del mismo modo, podemos aprender más sobre las catacterísticas de JupyterLab, a través de un VideoTutorial [5] o de la documentación correspondiente.
 
     
 
