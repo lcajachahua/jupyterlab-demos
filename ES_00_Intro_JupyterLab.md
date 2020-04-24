@@ -2,7 +2,7 @@
 
 En esta demo, vamos a dar un vistazo a JupyterLab. Usaremos la versión online, así que no necesita instalar nada previamente para poder replicar esta demo.
 
-Vamos a explorar diferentes técnicas de Clustering, utilizando como referencia un notebook elaborado por Abdul Meral [1], que a su vez, está basado en otro instructivo muy detallado [2], desarrollado por el gran Jason Bronwnlee, autor de varios libors de la colección 'Machine Learning Mastery'.
+Vamos a explorar diferentes técnicas de Clustering, utilizando como referencia un notebook elaborado por Abdul Meral [1], que a su vez, está basado en otro instructivo muy detallado [2], desarrollado por el gran Jason Bronwnlee, autor de varios libros de la colección 'Machine Learning Mastery'.
 
 
 ## Iniciando JupyterLab
@@ -32,7 +32,7 @@ Ya estamos listos para copiar elementos desde cualquier página de Kaggle, utili
     $ kaggle datasets download -d shwetabh123/mall-customers
     $ unzip Mall_Customers.zip
 
-Finalmente, podemos replicar el procedimiento indicado en el Notebook para entender mejor ciertos algpritmos de Clustering. Sólo es necesario modificar el código que se utiliza para importar el archivo.
+Finalmente, podemos replicar el procedimiento indicado en el Notebook para entender mejor ciertos algoritmos de Clustering. Sólo es necesario modificar el código que se utiliza para importar el archivo.
 
 ## Complementando el Análisis con NbClust de R
 
