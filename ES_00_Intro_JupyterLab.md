@@ -9,7 +9,7 @@ Vamos a explorar diferentes técnicas de Clustering, utilizando como referencia 
 
 Vaya a https://jupyter.org/try y seleccione la opción de JupyterLab online
 
-![IMAGEN](jupyterlab-demos/images/TryJupyterLab.png)
+![IMAGEN](images/TryJupyterLab.png)
 
 ## Descargar Kaggle Notebooks y Datasets
 
