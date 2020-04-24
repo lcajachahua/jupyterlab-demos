@@ -7,7 +7,7 @@ Vamos a explorar diferentes técnicas de Clustering, utilizando como referencia 
 
 ## Iniciando JupyterLab
 
-Vaya a https://jupyter.org/try y seleccione la opción de JupyterLab online
+Vaya a https://jupyter.org/try y seleccione la opción "Try JupyterLab"
 
 ![IMAGEN](images/TryJupyterLab.png)
 
