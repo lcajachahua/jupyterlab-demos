@@ -19,7 +19,7 @@ https://downloads.teradata.com/download/tools/vantage-modules-for-jupyter
 
 Nosotros vamos a utilizar la imagen para Docker, pero usted podría instalar JupyterLab directamente en su sistema operativo utilizando las versiones correspondientes del instalador.
 
-Imagen
+![Descarga_JupyterLab](images/Download_Jupyter.png)
 
 Para descargar la imagen, debe hacer clic en el enlace correcto. Se abrirá una ventana con un acuerdo de licencia. Luego de revisarlo, vaya a la parte final del documento y acepte. La descarga iniciará automáticamente.
 
