@@ -72,6 +72,10 @@ Combinamos la información del dataset con la etiqueta de clusters que viene de 
 
     data<-cbind(data,'cluster'=nbclu$Best.partition)
 
+Y convertimos 'cluster' en un factor para poder utilizarlo como argumento para colorear los clusters con ggplot
+
+    data$cluster<-as.factor(data$cluster)
+
 Y podemos graficar la distribución:
 
     ggplot(data, aes(x=AnnualIncome, y=SpendingScore, shape=cluster, color=cluster)) + geom_point()
