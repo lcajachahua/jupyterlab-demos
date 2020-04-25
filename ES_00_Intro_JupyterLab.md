@@ -23,6 +23,7 @@ Al finalizar, es necesario generar una clave desde Kaggle para conectarse. Hay u
 
 Arrastre la clave descargada al home de JupyterLab. Para copiarla en la carpeta correcta, puede utilizar los siguientes comandos:
 
+    $ mkdir ~/.kaggle
     $ cp kaggle.json ~/.kaggle/kaggle.json
     $ chmod 600 ~/.kaggle/kaggle.json
 
