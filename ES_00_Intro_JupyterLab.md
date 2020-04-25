@@ -31,7 +31,7 @@ Ya estamos listos para copiar elementos desde cualquier página de Kaggle, utili
 
     $ kaggle kernels pull abdulmeral/10-models-for-clustering
     $ kaggle datasets download -d shwetabh123/mall-customers
-    $ unzip Mall_Customers.zip
+    $ unzip mall_customers.zip
 
 Finalmente, podemos replicar el procedimiento indicado en el Notebook para entender mejor ciertos algoritmos de Clustering. Sólo es necesario modificar el código que se utiliza para importar el archivo.
 
