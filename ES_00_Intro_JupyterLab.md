@@ -2,7 +2,7 @@
 
 En esta demo, vamos a dar un vistazo a JupyterLab. Usaremos la versión online, así que no necesita instalar nada previamente para poder replicar esta demo.
 
-Vamos a explorar diferentes técnicas de Clustering, utilizando como referencia un notebook elaborado por Abdul Meral [1], que a su vez, está basado en otro instructivo muy detallado [2], desarrollado por el gran Jason Bronwnlee, autor de varios libros de la colección 'Machine Learning Mastery'.
+Vamos a explorar diferentes técnicas de Clustering, utilizando como referencia un notebook elaborado por Abdul Meral [1], que considera los diez métodos de clustering incluidos en scikit-learn [2].
 
 
 ## Iniciando JupyterLab
@@ -83,7 +83,7 @@ Podemos seguir cambiando y eligiendo otras distiancias, métodos y métricas par
 
 [1] [Kaggle: 10 Models for Clustering](https://www.kaggle.com/abdulmeral/10-models-for-clustering/)
 
-[2] [ML Mastery: 10 Clustering Algorithms With Python](https://machinelearningmastery.com/clustering-algorithms-with-python/)
+[2] [Overview of clustering methods](https://scikit-learn.org/stable/modules/clustering.html#overview-of-clustering-methods)
 
 [3] [ConfusedCoders: How to copy Kaggle data to Amazon S3](https://confusedcoders.com/data-engineering/how-to-copy-kaggle-data-to-amazon-s3)
 
