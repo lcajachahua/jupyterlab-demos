@@ -45,7 +45,7 @@ In order to use the R, Python and Teradata Kernels, go to the corresponding inst
 
 Close all notebooks you have been working on. Then you can download the JupyterLab Server with the Shutdown option from the Menu File. Confirm your choice by pressing the button shown. Then you can close the tab or the browser.
 
-In the Docker Toolbox window, you can use the command 'docker ps' to see the nickname of the container.
+In the Docker Toolbox window, you can use the command 'docker ps' to see the container nickname.
 
     $ docker ps -a
 
