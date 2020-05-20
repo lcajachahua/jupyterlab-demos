@@ -1,4 +1,3 @@
-
 # Modificar la Imagen de JupyterLab
 
 [Video Instructivo en Youtube](https://www.youtube.com/watch?v=mSp9EBr9Xr0)  
