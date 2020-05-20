@@ -30,26 +30,26 @@ And choose the "Try JupyterLab" option. You can see a demo in the following vide
 
 Teradata has developed a JupyterLab image that includes R, Python, Teradata, Julia kernels. Also Git and ZeroMQ. This version is available to be installed directly on Windows, Linux or Mac.
 
-Additionally, there is an image for Docker. We are going to work with Docker, because it offers a series of benefits that facilitate the transition from developed models to production.
+Additionally, there is an image for Docker. We are going to work with Docker, because it offers many enablers for the transition from developed models to production.
 
 Essentially, Docker is used to:
-- Deal with the difficulty of installing free software in production environments, in addition to dealing with their maintenance, updating libraries, installing packages, etc. With Docker the environment is packaged, including the necessary tools and libraries.
+- Deal with the hard work installing free software in production environments, maintenance, updating libraries, installing packages, etc. With Docker the environment is build with modules, including the necessary tools and libraries.
 - Improve reproducibility and traceability of processes
-- Work in a modular way with other types of solutions such as Jenkins (process automation tool), Airflow / Luigi (Pipelines). But it is not necessary to have a single monolithic system. Each one can go on a different container.
+- Work in a modular way with other types of solutions such as Jenkins (process automation tool), Airflow / Luigi (Pipelines). But it is not necessary to have a single monolithic system. Each one can run on a different container.
 - Reuse of components
-- Standard in DevOps and MLOps
+- Standard practices such as DataOps and MLOps
 
-## Cómo instalar localmente
+## How to install
 
-Para poder instalar JupyterLab sobre Docker, puede seguir cada uno de los instructivos listados a continuación. Cada paso cuenta con tutoriales en video (YouTube).
+In order to install JupyterLab on Docker, you can follow each of the instructions listed below. Each step has video tutorials (YouTube).
 
-1. [Instalar Docker](https://github.com/lcajachahua/jupyterlab-demos/blob/master/ES_01_Instalar_Docker.md)
+1. [Install Docker](https://github.com/lcajachahua/jupyterlab-demos/blob/master/EN_01_Install_Docker.md)
 
-2. [Descargar JupyterLab](https://github.com/lcajachahua/jupyterlab-demos/blob/master/ES_02_Descargar_Jupyterlab.md)
+2. [Download JupyterLab](https://github.com/lcajachahua/jupyterlab-demos/blob/master/EN_02_Download_Jupyterlab.md)
 
-3. Abrir JupyterLab
-[Windows](https://github.com/lcajachahua/jupyterlab-demos/blob/master/ES_03_Abrir_JupyterLab_Windows.md)
-[Linux](https://github.com/lcajachahua/jupyterlab-demos/blob/master/ES_03_Abrir_JupyterLab_Linux.md)
+3. Starting JupyterLab
+[Windows](https://github.com/lcajachahua/jupyterlab-demos/blob/master/EN_03_Open_JupyterLab_Windows.md)
+[Linux](https://github.com/lcajachahua/jupyterlab-demos/blob/master/EN_03_Open_JupyterLab_Linux.md)
 
-4. [Modificar la Imagen](https://github.com/lcajachahua/jupyterlab-demos/blob/master/ES_04_Modificar_Imagen.md)
+4. [Implementing Image Changes](https://github.com/lcajachahua/jupyterlab-demos/blob/master/EN_04_Modifying_Image.md)
 
