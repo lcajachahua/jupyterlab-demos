@@ -22,6 +22,5 @@ git clone https://github.com/lcajachahua/Housing-Prices-EDA-and-Regression-Model
 
 Utilizamos la siguiente sintaxis para instalar las librerías de Python que necesitamos
 
-    conda install -c conda-forge missingno xgboost
-
+    conda install -c conda-forge missingno xgboost mlxtend lightgbm pandas_profiling
 
