@@ -1,5 +1,9 @@
 # Demos con Jupyterlab R, Python, Teradata, Docker y Git
 [English Version Here](https://github.com/lcajachahua/jupyterlab-demos/blob/master/EN_README.md)
+
+
+
+
 En esta serie de instructivos, vamos a ver cómo podemos utilizar JupyterLab para desarrollar algunos análisis de datos. Luego, veremos como construir nuestro propio entorno JupyterLab, 
 utilizando la imagen Docker que Teradata ha liberado 
 
