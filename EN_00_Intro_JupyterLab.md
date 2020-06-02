@@ -97,3 +97,7 @@ We can continue changing and choosing other distances, methods and metrics to fi
 [4] [NbClust Package For Determining The Best Number Of Clusters](https://www.rdocumentation.org/packages/NbClust/versions/3.0/topics/NbClust)
 
 [5] [Tutorial: How to use JupyterLab](https://www.youtube.com/watch?v=A5YyoCKxEOU)
+
+[6] [Library optCluster](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5450252/)
+
+[7] [Library PyCluster](https://www.theoj.org/joss-papers/joss.01230/10.21105.joss.01230.pdf)
