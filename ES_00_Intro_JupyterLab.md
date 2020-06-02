@@ -96,3 +96,13 @@ Los Notebooks terminados están disponibles en este repo, tanto el de [Python](h
 [4] [NbClust Package For Determining The Best Number Of Clusters](https://www.rdocumentation.org/packages/NbClust/versions/3.0/topics/NbClust)
 
 [5] [VideoTutorial: Introducción a JupyterLab en menos de 4 minutos](https://www.youtube.com/watch?v=tdSVdcFezqs)
+
+[6] [Guia de Algoritmos de Clustering](https://ccc.inaoep.mx/~emorales/Cursos/NvoAprend/Acetatos/clustering.pdf)
+
+[7] [Library optCluster](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5450252/)
+
+[8] [Library PyCluster](https://www.theoj.org/joss-papers/joss.01230/10.21105.joss.01230.pdf)
+
+[9] [Clustering Jerarquico](https://elvex.ugr.es/idbis/dm/slides/42%20Clustering%20-%20Hierarchical.pdf)
+
+[10] [Clustering por PArticiones](https://elvex.ugr.es/idbis/dm/slides/41%20Clustering%20-%20Partitional.pdf)
