@@ -105,4 +105,4 @@ Los Notebooks terminados están disponibles en este repo, tanto el de [Python](h
 
 [9] [Clustering Jerarquico](https://elvex.ugr.es/idbis/dm/slides/42%20Clustering%20-%20Hierarchical.pdf)
 
-[10] [Clustering por PArticiones](https://elvex.ugr.es/idbis/dm/slides/41%20Clustering%20-%20Partitional.pdf)
+[10] [Clustering por Particiones](https://elvex.ugr.es/idbis/dm/slides/41%20Clustering%20-%20Partitional.pdf)
