@@ -31,7 +31,7 @@ https://jupyter.org/try
 Y elija la opción "Try JupyterLab". Puede ver una demo en el siguiente video:
 
 [Video](https://www.youtube.com/watch?v=VcAPg0Ly1ds)
-
+[![](http://img.youtube.com/vi/VcAPg0Ly1ds/0.jpg)](http://www.youtube.com/watch?v=VcAPg0Ly1ds "")
 
 
 ## JupterLab sobre Docker (Powered by Teradata)
