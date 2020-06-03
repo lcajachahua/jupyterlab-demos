@@ -30,7 +30,7 @@ https://jupyter.org/try
 
 Y elija la opción "Try JupyterLab". Puede ver una demo en el siguiente video:
 
-[Video]
+[Video](https://www.youtube.com/watch?v=VcAPg0Ly1ds)
 
 
 
