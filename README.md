@@ -45,7 +45,7 @@ Esencialmente, Docker se utiliza para:
 - Lidiar con la dificultad para instalar software libre en los entornos de producción, además de lidiar con el manteniniento de los mismos, actualización de librerías, instalación de paquetes, etc. Con Docker el ambiente va empaquetado, incluyendo las herramientas y librerías necesarias.
 - Mejorar la reproducibilidad y la trazabilidad de los procesos
 - Trabajar en forma modular con otro tipo de soluciones como Jenkins (herramienta de automatización de procesos), Airflow/Luigi (Pipelines). Pero no es necesario tener un solo sistema monolítico. Cada uno puede ir sobre un contenedor distinto.   
-- Reutilización de componentes
+- Portabilidad y reutilización de componentes
 - Estándar en DevOps y MLOps
 
 ## Cómo instalar localmente
