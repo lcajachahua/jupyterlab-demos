@@ -80,7 +80,7 @@ Y podemos graficar la distribución:
 
     ggplot(data, aes(x=AnnualIncome, y=SpendingScore, shape=cluster, color=cluster)) + geom_point()
 
-Podemos seguir cambiando y eligiendo otras distiancias, métodos y métricas para encontrar la que mejor se adecúe a nuestros datos. Del mismo modo, podemos aprender más sobre las catacterísticas de JupyterLab, a través de un VideoTutorial [5] o de la documentación correspondiente.
+Podemos seguir cambiando y eligiendo otras distancias, métodos y métricas para encontrar la que mejor se adecúe a nuestros datos. Del mismo modo, podemos aprender más sobre las catacterísticas de JupyterLab, a través de un VideoTutorial [5] o de la documentación correspondiente.
 
 Los Notebooks terminados están disponibles en este repo, tanto el de [Python](https://github.com/lcajachahua/jupyterlab-demos/blob/master/notebooks/10-models-for-clustering.ipynb) como el de [R](https://github.com/lcajachahua/jupyterlab-demos/blob/master/notebooks/NbClust_R.ipynb)
 
